@@ -1,5 +1,14 @@
 # Computer Classic Management In C
 
+# Features
+
+* Login/Sign-up
+* Add New Student
+* Student Login
+* Admin Login
+* Manage all students data
+
+
 # Youtube Demo
 
 [<img src="screenshots/home.png" />](https://youtu.be/2etSEXnmvFw)
