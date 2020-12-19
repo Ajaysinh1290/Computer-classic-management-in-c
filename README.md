@@ -2,11 +2,10 @@
 
 # Youtube Demo
 
-[<img src="home.png" />](https://youtu.be/2etSEXnmvFw)
+[<img src="screenshots/home.png" />](https://youtu.be/2etSEXnmvFw)
 
 #Screen shots
 
-<img src="screenshots/home.png" />
 <img src="screenshots/newstudentdata1.png" />
 <img src="screenshots/newstudentdata2.png" />
 <img src="screenshots/confirmation.png" />
